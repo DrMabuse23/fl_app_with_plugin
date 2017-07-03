@@ -26,7 +26,6 @@ class LoginState extends State<LoginScreen> {
     print(model.password);
     postData();
   }
-
   String get url {return 'https://iot2.relution.io/gofer/security/rest/auth';}
 //https://iot2.relution.io/relution/api/v1/gofer/security/rest/auth/
   postData() async {
