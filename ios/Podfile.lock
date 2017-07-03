@@ -1,0 +1,22 @@
+PODS:
+  - bluerange_sdk (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - bluerange_sdk (from `/Users/pascalbrewing-work/gitlab/fl_bluerange/plugins/bluerange_sdk/ios`)
+  - Flutter (from `/Users/pascalbrewing-work/gitlab/flutter/bin/cache/artifacts/engine/ios`)
+
+EXTERNAL SOURCES:
+  bluerange_sdk:
+    :path: /Users/pascalbrewing-work/gitlab/fl_bluerange/plugins/bluerange_sdk/ios
+  Flutter:
+    :path: /Users/pascalbrewing-work/gitlab/flutter/bin/cache/artifacts/engine/ios
+
+SPEC CHECKSUMS:
+  bluerange_sdk: a494a715e7e703125b3dc2d8708e86202405ae56
+  Flutter: d674e78c937094a75ac71dd77e921e840bea3dbf
+
+PODFILE CHECKSUM: 351e02e34b831289961ec3558a535cbd2c4965d2
+
+COCOAPODS: 1.2.1
